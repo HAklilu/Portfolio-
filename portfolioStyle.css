@@ -26,12 +26,11 @@ body {
     font-family: 'Tangerine', cursive;
 }
 
-#div.a {
-   margin: 4px;
-}
-
-#div.b {
-    line-height: normal;
-
+div{
+width: 30em;
+margin: -100;
+max-width: 100%;
+line-height: 1.5;
+font-size: 18px;
 }
 
