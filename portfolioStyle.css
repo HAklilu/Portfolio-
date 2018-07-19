@@ -1,11 +1,7 @@
-body {
-    background: yellow
-}
 
-#stunt {
-color: brown;
  
-
+body {
+    background: lightgoldenrodyellow
 }
 
 #h1 {
@@ -15,11 +11,27 @@ color: brown;
 
 
 
-img { 
+#img { 
     width: 300px;
     height: 400px;
 }
 
-bgrd {
-    background-image: image()
+#fonts1 {
+    font-family: 'Roboto Slab', serif;
+    font-family: 'PT Serif', serif;
 }
+
+#fonts2 {
+    font-family: 'Caveat', cursive;
+    font-family: 'Tangerine', cursive;
+}
+
+#div.a {
+   margin: 4px;
+}
+
+#div.b {
+    line-height: normal;
+
+}
+
