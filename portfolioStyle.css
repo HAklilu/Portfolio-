@@ -31,6 +31,31 @@ width: 30em;
 margin: -100;
 max-width: 100%;
 line-height: 1.5;
-font-size: 18px;
+font-size: 20px;
+}
+
+a {
+    color: antiquewhite;
+  
+}
+#header 
+
+a:link {
+color: rgb(92, 79, 38);
+}
+
+
+a:visited {
+color: rgb(13, 0, 128);
+}
+
+
+a:hover {
+color: red;
+}
+
+
+a:active {
+color: yellow;
 }
 
