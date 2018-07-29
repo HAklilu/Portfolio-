@@ -1,0 +1,46 @@
+Portfolio final grade: 86
+
+Comments:  I like that you took extra time to think about the images on other pages.  Your final version actually works well as a mobile site, but not quite so well as a standard website.  Also you could have used a bit more attention to the little details in your code. A good solid effort, and it could be cleaned up without very much effort.
+
+########
+
+Code Quality:  Does it follow proper HTML and CSS rules, including the Clean HTML Tips and other issues noted in class?
+
+Grade: 75
+(50% of overall grade)
+
+Points deducted for these items:
+    -5 Index.html file is empty which will break your site when published.
+    -4 Document title missing or unchanged on all pages.
+    -4 Mobile responsive stylesheet link broken or missing on all pages.
+    -3 Google font links missing or inconsistent on 3 pages.
+    -1 images should not be inside the h1 tag.
+    -1 incorrect use of footer tag.
+    -1 Broken body tag on resume.html page.
+    -1 Unused copy of css file left in project.
+    -2 duplicate font-family tags used in CSS selectors.
+    -1 Unused #header selector in CSS file.
+    -2 Extra CSS selectors over-ride earlier values.
+
+########
+
+Design and Accessibility:  Does it incorporate the CSS techniques covered in class and incorporate accessibility support for at least one of the areas we discussed?
+
+Grade: 98
+(25% of overall grade)
+
+Points deducted for these items:
+    -2 The image on the non-mobile version is a little large.
+
+########
+
+Advanced CSS:  Does it use advanced css techniques, like animations/transitions and media queries for mobile responsiveness?
+
+Grade: 95
+(25% of overall grade)
+
+Points deducted for these items:
+    -10 Media queries used for mobile responsiveness don't actually impact the look and feel of the site (which is reflected in the inappropriate sizing of the non-mobile version).
+
+Bonus points awarded for these items:
+    +5 points for proper inclusion of CSS properties not covered in clas.
