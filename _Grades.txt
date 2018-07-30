@@ -1,4 +1,4 @@
-Portfolio final grade: 86
+Portfolio final grade: 89
 
 Comments:  I like that you took extra time to think about the images on other pages.  Your final version actually works well as a mobile site, but not quite so well as a standard website.  Also you could have used a bit more attention to the little details in your code. A good solid effort, and it could be cleaned up without very much effort.
 
@@ -36,11 +36,13 @@ Points deducted for these items:
 
 Advanced CSS:  Does it use advanced css techniques, like animations/transitions and media queries for mobile responsiveness?
 
-Grade: 95
+Grade: 105
 (25% of overall grade)
 
 Points deducted for these items:
     -10 Media queries used for mobile responsiveness don't actually impact the look and feel of the site (which is reflected in the inappropriate sizing of the non-mobile version).
 
-Bonus points awarded for these items:
+    
+Bonus Points awarded for these items:
+    +10 because of completing the media queries
     +5 points for proper inclusion of CSS properties not covered in clas.
